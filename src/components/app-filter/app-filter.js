@@ -1,4 +1,4 @@
-
+import './app-filter.css'
 
 
 const AppFilter = () => {
@@ -20,3 +20,5 @@ const AppFilter = () => {
         </div>
     )
 }
+
+export default AppFilter;
